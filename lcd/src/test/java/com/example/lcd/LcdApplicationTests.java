@@ -1,4 +1,4 @@
-package com.example.lcd;
+package com.example.mona;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
