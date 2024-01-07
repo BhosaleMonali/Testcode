@@ -1,0 +1,5 @@
+movie_api\repository\Movierepository.class
+movie_api\controller\MovieController.class
+movie_api\entity\Movie.class
+movie_api\service\MovieService.class
+example\spring\rest\data\jpa\SpringRestDataJpaProjectApplication.class
