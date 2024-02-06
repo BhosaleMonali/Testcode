@@ -1,0 +1,8 @@
+example\springboot\mvc\repository\OnlineShopRepository.class
+example\springboot\mvc\service\ProductService.class
+example\springboot\mvc\entity\Customer.class
+example\springboot\mvc\entity\Order.class
+example\springboot\mvc\controller\OnlineShopController.class
+example\springboot\mvc\OnlineShopApplication.class
+example\springboot\mvc\entity\Product.class
+example\springboot\mvc\repository\ProductRepository.class
