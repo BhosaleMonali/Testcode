@@ -1,0 +1,18 @@
+create table ProductDetail(
+productno int  not null AUTO_INCREMENT ,
+type      varchar(20),
+size  varchar(5),
+cost numeric(4),
+image blob ,
+PRIMARY KEY (Productno));
+
+
+
+
+create table customerdetails(
+cust_id  varchar(10)  not null  primary key,
+fname varchar(10) not null,
+lname varchar(10),
+email varchar(20),
+mobileno varchar(12) not null,
+password varchar(10) not null);
